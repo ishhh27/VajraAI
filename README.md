@@ -130,4 +130,7 @@ npm run dev
 
 Harshita Joshi
 
+Isha Joshi
+
+
 AI Security • Backend Engineering • Intelligent Systems
