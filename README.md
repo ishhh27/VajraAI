@@ -1,12 +1,3 @@
----
-title: Vajra AI
-emoji: 🛡️
-colorFrom: blue
-colorTo: purple
-sdk: docker
-pinned: false
----
-
 # 🛡️ Vajra AI
 
 Cybersecurity intelligence platform engineered to detect phishing attempts, malicious URLs, prompt injection attacks and suspicious digital activity using AI-assisted analysis pipelines.
